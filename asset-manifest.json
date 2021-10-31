@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/RailwayClient/static/css/main.fd776d9a.chunk.css",
-    "main.js": "/RailwayClient/static/js/main.dd36719c.chunk.js",
-    "main.js.map": "/RailwayClient/static/js/main.dd36719c.chunk.js.map",
+    "main.js": "/RailwayClient/static/js/main.b52d7325.chunk.js",
+    "main.js.map": "/RailwayClient/static/js/main.b52d7325.chunk.js.map",
     "runtime-main.js": "/RailwayClient/static/js/runtime-main.f514484e.js",
     "runtime-main.js.map": "/RailwayClient/static/js/runtime-main.f514484e.js.map",
     "static/js/2.b29bd163.chunk.js": "/RailwayClient/static/js/2.b29bd163.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.f514484e.js",
     "static/js/2.b29bd163.chunk.js",
     "static/css/main.fd776d9a.chunk.css",
-    "static/js/main.dd36719c.chunk.js"
+    "static/js/main.b52d7325.chunk.js"
   ]
 }
