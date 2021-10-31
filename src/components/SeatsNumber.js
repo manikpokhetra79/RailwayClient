@@ -18,14 +18,23 @@ const SeatsNumber = ({
   return (
     <>
       {' '}
+      <Container >
+        <Button
+          className="mb-3 mt-5"
+          variant="secondary"
+          onClick={handleButtonClick}
+        >
+          Reset Tickets for Testing Purpose
+        </Button>
+      </Container>
       <h2 className=" text-center">Booked Ticket Details</h2>
       <h2>Remaining seats : {updater ? 80 : ticketsLeft}</h2>
       {updater && <h2> Please refresh the page</h2>}
-      {remSeats === 0 && (
+      {/* {remSeats === 0 && (
         <Button className="mb-3" onClick={handleButtonClick}>
           Reset Tickets for Testing Purpose
         </Button>
-      )}
+      )} */}
       {loading ? (
         <Spinner animation="border" role="status">
           <span className="visually-hidden">Loading...</span>
