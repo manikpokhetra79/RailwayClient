@@ -63,7 +63,21 @@ const App = () => {
       {' '}
       <Container>
         <Row>
-          <Col>
+          <Col md={6} sm={12}>
+            <h1 className="text-primary mt-5 text-center">
+              Railway Ticket Booking
+            </h1>
+            <InputGroup className="mb-3 mt-5">
+              <FormControl
+                type="text"
+                name="totalSeats"
+                placeholder="No of seats 1-7"
+                onChange={handleInputChange}
+              />
+              <Button onClick={handleSubmit}>Book Seats</Button>
+            </InputGroup>
+          </Col>
+          <Col md={6} sm={12}>
             {' '}
             <ul className="mt-5">
               <h2>Notes </h2>
@@ -82,20 +96,6 @@ const App = () => {
               </li>
               <li>After resetting Database, please refresh the page.</li>
             </ul>
-          </Col>
-          <Col>
-            <h1 className="text-primary mt-5 text-center">
-              Railway Ticket Booking
-            </h1>
-            <InputGroup className="mb-3 mt-5">
-              <FormControl
-                type="text"
-                name="totalSeats"
-                placeholder="No of seats 1-7"
-                onChange={handleInputChange}
-              />
-              <Button onClick={handleSubmit}>Book Seats</Button>
-            </InputGroup>
           </Col>
         </Row>
 
