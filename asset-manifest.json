@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/RailwayClient/static/css/main.fd776d9a.chunk.css",
+    "main.js": "/RailwayClient/static/js/main.59f8c30e.chunk.js",
+    "main.js.map": "/RailwayClient/static/js/main.59f8c30e.chunk.js.map",
+    "runtime-main.js": "/RailwayClient/static/js/runtime-main.f514484e.js",
+    "runtime-main.js.map": "/RailwayClient/static/js/runtime-main.f514484e.js.map",
+    "static/js/2.c8ec5a5b.chunk.js": "/RailwayClient/static/js/2.c8ec5a5b.chunk.js",
+    "static/js/2.c8ec5a5b.chunk.js.map": "/RailwayClient/static/js/2.c8ec5a5b.chunk.js.map",
+    "static/js/3.4925aade.chunk.js": "/RailwayClient/static/js/3.4925aade.chunk.js",
+    "static/js/3.4925aade.chunk.js.map": "/RailwayClient/static/js/3.4925aade.chunk.js.map",
+    "index.html": "/RailwayClient/index.html",
+    "static/css/main.fd776d9a.chunk.css.map": "/RailwayClient/static/css/main.fd776d9a.chunk.css.map",
+    "static/js/2.c8ec5a5b.chunk.js.LICENSE.txt": "/RailwayClient/static/js/2.c8ec5a5b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f514484e.js",
+    "static/js/2.c8ec5a5b.chunk.js",
+    "static/css/main.fd776d9a.chunk.css",
+    "static/js/main.59f8c30e.chunk.js"
+  ]
+}
